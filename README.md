@@ -37,19 +37,19 @@
 - 기업의 평균 퇴사율은 11.8%(2021년 기준)이지만 이 기업의 경우 퇴사율이 16.1%로 평균보다 4.1% 높은 것을 확인할 수 있습니다. 
     - 기업 평균 퇴사율 출처 : [매일 일보](https://www.m-i.kr/news/articleView.html?idxno=886595)
 - 조기(0\~1년차) 퇴사자의 비율이 일반(2\~4년) 퇴사자의 2배, 장기(5+@년) 퇴사자의 3배보다 많았습니다.
-![alt text](image\pie.png)
+![alt text](image/pie.png)
 
 -------
 
 ### 3. EDA
 - EDA를 진행한 결과 아래와 같은 사실을 파악했습니다.
-![alt text](image\early_bar.png)
+![alt text](image/early_bar.png)
     - 조기(0\~1년차) 퇴사자의 비율이 일반(2\~4년) 퇴사자의 2배, 장기(5+@년) 퇴사자의 3배보다 많았습니다.
-![alt text](image\km.png)
+![alt text](image/km.png)
     - 회사외 집과의 거리가 멀수록 퇴사자의 비율이 높은 것을 확인 하였습니다.
-![alt text](image\envor.png)
+![alt text](image/envor.png)
     - 퇴사자들이 느낀 업무 환경이 대부분 불만족스러웠다고 하였습니다.
-![alt text](image\dash3.png)
+![alt text](image/dash3.png)
     - 신입 사원의 절반이 야근을 하는 것을 알 수 있습니다.
     - 신입 사원의 경우 야근을 경험하는 사원들이 느끼는 워라벨이 야근을 안하는 신규 입사자의 워라벨보다 낮았습니다.
 
